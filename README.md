@@ -6,7 +6,7 @@
 [![Quality Score][ico-code-quality]][link-code-quality]
 [![Total Downloads][ico-downloads]][link-downloads]
 
-A Laravel 5.5 wrapper for the [stidges/country-flags](https://github.com/stidges/country-flags) package.
+A Laravel wrapper for the [stidges/country-flags](https://github.com/stidges/country-flags) package.
 
 ## Installation
 
