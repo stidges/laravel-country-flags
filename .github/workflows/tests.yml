@@ -39,9 +39,6 @@ jobs:
           composer require "illuminate/support:${{ matrix.laravel }}" --no-interaction --no-update
           composer update --${{ matrix.stability }} --prefer-dist --no-interaction
 
-      - name: Codesniffer
-        run: vendor/bin/phpcs --standard=psr2 src
-
       - name: Execute tests
         run: vendor/bin/phpunit --coverage-text
 
