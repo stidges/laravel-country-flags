@@ -2,8 +2,7 @@
 
 [![Latest Version on Packagist][ico-version]][link-packagist]
 [![Software License][ico-license]](LICENSE.md)
-[![Build Status][ico-travis]][link-travis]
-[![Quality Score][ico-code-quality]][link-code-quality]
+[![Build Status][ico-tests]][link-actions]
 [![Total Downloads][ico-downloads]][link-downloads]
 
 A Laravel wrapper for the [stidges/country-flags](https://github.com/stidges/country-flags) package.
@@ -75,15 +74,13 @@ If you discover any security related issues, please email info@stidges.com inste
 
 The MIT License (MIT). Please see [License File](LICENSE.md) for more information.
 
-[ico-version]: https://img.shields.io/packagist/v/stidges/laravel-country-flags.svg?style=flat-square
-[ico-license]: https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square
-[ico-travis]: https://img.shields.io/travis/stidges/laravel-country-flags/master.svg?style=flat-square
-[ico-code-quality]: https://img.shields.io/scrutinizer/g/stidges/laravel-country-flags.svg?style=flat-square
-[ico-downloads]: https://img.shields.io/packagist/dt/stidges/laravel-country-flags.svg?style=flat-square
+[ico-version]: https://img.shields.io/packagist/v/stidges/laravel-country-flags.svg
+[ico-license]: https://img.shields.io/badge/license-MIT-brightgreen.svg
+[ico-tests]: https://github.com/stidges/laravel-country-flags/workflows/tests/badge.svg
+[ico-downloads]: https://img.shields.io/packagist/dt/stidges/laravel-country-flags.svg
 
 [link-packagist]: https://packagist.org/packages/stidges/laravel-country-flags
-[link-travis]: https://travis-ci.org/stidges/laravel-country-flags
-[link-code-quality]: https://scrutinizer-ci.com/g/stidges/laravel-country-flags
+[link-actions]: https://github.com/stidges/laravel-country-flags/actions
 [link-downloads]: https://packagist.org/packages/stidges/laravel-country-flags
 [link-author]: https://github.com/stidges
 [link-contributors]: ../../contributors
