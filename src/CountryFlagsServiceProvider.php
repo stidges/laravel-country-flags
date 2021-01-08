@@ -2,8 +2,8 @@
 
 namespace Stidges\LaravelCountryFlags;
 
-use Stidges\CountryFlags\CountryFlag;
 use Illuminate\Support\ServiceProvider;
+use Stidges\CountryFlags\CountryFlag;
 
 class CountryFlagsServiceProvider extends ServiceProvider
 {
