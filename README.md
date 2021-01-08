@@ -76,7 +76,7 @@ The MIT License (MIT). Please see [License File](LICENSE.md) for more informatio
 
 [ico-version]: https://img.shields.io/packagist/v/stidges/laravel-country-flags.svg
 [ico-license]: https://img.shields.io/badge/license-MIT-brightgreen.svg
-[ico-tests]: https://github.com/stidges/laravel-country-flags/workflows/tests/badge.svg
+[ico-tests]: https://github.com/stidges/laravel-country-flags/workflows/Tests/badge.svg
 [ico-downloads]: https://img.shields.io/packagist/dt/stidges/laravel-country-flags.svg
 
 [link-packagist]: https://packagist.org/packages/stidges/laravel-country-flags
