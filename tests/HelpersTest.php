@@ -3,8 +3,8 @@
 namespace Stidges\Tests;
 
 use Illuminate\Support\Facades\Facade;
-use PHPUnit\Framework\TestCase;
 use PHPUnit\Framework\Attributes\Test;
+use PHPUnit\Framework\TestCase;
 use Stidges\CountryFlags\CountryFlag;
 
 class HelpersTest extends TestCase
