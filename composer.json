@@ -20,12 +20,12 @@
         }
     ],
     "require": {
-        "php": "^7.3|^8.0",
-        "illuminate/support": "^7.0|^8.0|^9.0|^10.0|^11.0",
+        "php": "^8.2",
+        "illuminate/support": "^11.0",
         "stidges/country-flags": "^2.0"
     },
     "require-dev": {
-        "phpunit/phpunit": "^9.0|^10.5"
+        "phpunit/phpunit": "^10.5"
     },
     "autoload": {
         "psr-4": {
