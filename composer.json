@@ -21,7 +21,7 @@
     ],
     "require": {
         "php": "^8.2",
-        "illuminate/support": "^11.0",
+        "illuminate/support": "^11.0|^12.0",
         "stidges/country-flags": "^2.0"
     },
     "require-dev": {
