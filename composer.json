@@ -1,6 +1,6 @@
 {
     "name": "stidges/laravel-country-flags",
-    "description": "A Laravel 5.5 wrapper for the stidges/country-flags package",
+    "description": "A Laravel wrapper for the stidges/country-flags package",
     "keywords": [
         "laravel",
         "country-flags",
